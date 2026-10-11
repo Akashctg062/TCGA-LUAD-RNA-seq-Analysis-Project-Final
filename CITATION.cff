@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "A locked seven-gene mitotic prognostic score for lung adenocarcinoma: analysis code"
+authors:
+  - name: "Asaduzzaman"
+    affiliation: "Taipei Medical University"
+  - family-names: "Chen"
+    given-names: "Chang-I"
+    affiliation: "Taipei Medical University"
+  - family-names: "Chang"
+    given-names: "Cheng-Jen"
+    affiliation: "Taipei Medical University"
+  - family-names: "Yang"
+    given-names: "Tzu-Sen"
+    affiliation: "Taipei Medical University"
+version: "1.0.0"
+date-released: "2026-10-12"
+license: MIT
+repository-code: "https://github.com/Akashctg062/TCGA-LUAD-RNA-seq-Analysis-Project"
+keywords:
+  - lung adenocarcinoma
+  - prognostic signature
+  - TCGA
+  - WGCNA
+  - external validation
