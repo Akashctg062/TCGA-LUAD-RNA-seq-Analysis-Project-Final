@@ -16,7 +16,7 @@ authors:
 version: "1.0.0"
 date-released: "2026-10-12"
 license: MIT
-repository-code: "https://github.com/Akashctg062/TCGA-LUAD-RNA-seq-Analysis-Project"
+repository-code: "https://github.com/Akashctg062/TCGA-LUAD-RNA-seq-Analysis-Project-Final"
 keywords:
   - lung adenocarcinoma
   - prognostic signature
