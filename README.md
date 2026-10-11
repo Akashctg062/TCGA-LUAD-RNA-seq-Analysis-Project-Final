@@ -122,4 +122,4 @@ Code is released under the MIT License (see `LICENSE`). Data obtained from the r
 
 ## Contact
 
-Asaduzzaman (first author) and Prof. Tzu-Sen Yang (corresponding author, tsyang@tmu.edu.tw), Taipei Medical University, Taiwan.
+Asaduzzaman (first author, d825114001@tmu.edu.tw) and Prof. Tzu-Sen Yang (corresponding author, tsyang@tmu.edu.tw), Taipei Medical University, Taiwan.
